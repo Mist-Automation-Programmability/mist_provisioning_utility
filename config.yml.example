@@ -1,0 +1,6 @@
+mist:
+  api_token: AAA
+  org_id: OOO
+  cache_timeout: 30
+google:
+  api_token: AAA
